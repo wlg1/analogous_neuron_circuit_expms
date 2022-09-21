@@ -8,4 +8,4 @@ These experiments are explained through a series of Colab notebooks that walk th
 
 ---
 
-[in repo- state underlying assumptions and hypotheses to test]
+[state underlying assumptions and hypotheses to test]
